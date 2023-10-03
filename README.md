@@ -1,10 +1,9 @@
  <h1 align="center">Hi 👋, I'm Maheswaran</h1>
 <h3 align="center">A passionate FullStack developer from TamilNadu</h3>
-<p align="center"> <img src="https://stringfixer.com/files/197806252.jpg" width="600" height="600" /> </p>
+<h1 align="center">Hi 👋, I'm MAHESWARAN T</h1>
+<h3 align="center">Full Stack Developer</h3>
 
- 
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg?compress=1&resize=1200x900&vertical=top" /> </p>
 
 <h2>Welcome to my page! </h2>
 <!-- </br> I'm Maheswaran , Fullstack developer with the right mix of Functional programming from <img src="https://flagcdn.com/in.svg" width="18"/> <b>Chennai, Tamil Nadu.</b>  -->
