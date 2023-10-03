@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Maheswaran</h1>
+ <h1 align="center">Hi 👋, I'm Maheswaran T</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg?compress=1&resize=1200x900&vertical=top" /> </p>
@@ -38,9 +38,11 @@
 <!-- <a href="https://github.com/ragavkumarv" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
 <!-- </p> -->
 
-<h2 align="left">📞 Connect with me </h2>
+<h2 align="left">Connect with me</h2>
 <p align="left">
-<a href="https://twitter.com/mahizhan_mahes" target="blank"><img align="center" src="https://raw.githubusercontent.com/MahiZhan1606/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MahiZhan1606" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/Maheswaran-T/" target="blank"><img align="center" src="https://raw.githubusercontent.com/MahiZhan1606/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
-<a href="https://instagram.com/mahizhan_mahes" target="blank"><img align="center" src="https://raw.githubusercontent.com/MahiZhan1606/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MahiZhan1606" height="30" width="40" /></a>
+<a href="https://twitter.com/IamMahes_FSDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MahiZhan1606" height="30" width="40" /></a>
+ 
+<a href="https://www.linkedin.com/in/Maheswaran-T/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
+ 
+<a href="https://www.instagram.com/iam_mahes_fsdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MahiZhan1606" height="30" width="40" /></a>
 </p>
