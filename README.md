@@ -7,8 +7,7 @@
 <!-- </br> I'm Maheswaran , Fullstack developer with the right mix of Functional programming from <img src="https://flagcdn.com/in.svg" width="18"/> <b>Chennai, Tamil Nadu.</b>  -->
 <!-- <br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning and teaching web development.</p>
  -->
-<h2>⚡ Things I code with </h2>
-
+<h2>Things I code with </h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
@@ -23,8 +22,7 @@
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> 
 </p>
 
-<h2> 😄 Cool Stats </h2>
-
+<h2>Cool Stats </h2>
 <img src="https://komarev.com/ghpvc/?username=MahiZhan1606&label=Profile+Views&style=flat-square&color=ff69b4" />
 
 ![Mahes's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahiZhan1606&show_icons=true&theme=radical)
@@ -33,10 +31,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahiZhan1606&layout=compact&theme=radical&langs_count=6)
 
-<!-- <h3>Where to find me</h3> -->
-<!-- <p> -->
-<!-- <a href="https://github.com/ragavkumarv" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
-<!-- </p> -->
+<h3>Where to find me</h3>
+<p>
+<a href="https://github.com/ragavkumarv" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+</p>
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
