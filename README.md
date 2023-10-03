@@ -33,7 +33,7 @@
 
 <h3>Where to find me</h3>
 <p>
-<a href="https://github.com/ragavkumarv" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://github.com/MahiZhan1606" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 
 <h2 align="left">Connect with me</h2>
