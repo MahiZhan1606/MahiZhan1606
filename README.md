@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg?compress=1&resize=1200x900&vertical=top" /> </p>
 
 <h2>Welcome to my page! </h2>
-I'm Maheswaran , Fullstack developer with the right mix of Functional programming from <img src="https://flagcdn.com/in.svg" width="18"/> <b>Chennai, Tamil Nadu.</b>
+I'm Maheswaran , Fullstack developer with the right mix of Functional programming from India <b>Chennai, Tamil Nadu.</b>
 <br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning and teaching web development.</p>
 <h2>Things I code with </h2>
 <p>
