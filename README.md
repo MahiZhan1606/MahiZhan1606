@@ -41,8 +41,6 @@
 <h2 align="left">Connect with me</h2>
 <p align="left">
 <a href="https://twitter.com/IamMahes_FSDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MahiZhan1606" height="30" width="40" /></a>
- 
 <a href="https://www.linkedin.com/in/Maheswaran-T/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
- 
 <a href="https://www.instagram.com/iam_mahes_fsdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MahiZhan1606" height="30" width="40" /></a>
 </p>
